@@ -1,9 +1,0 @@
-Kettlebell Workout Timer
-40-Minute Full Body Workout • 3 Rounds
-
-Things to improve
-- create personal workout
-- mobile access
-- store exercise data. Tap bao nhieu lan, ngày giờ tập.
-- tạo hình miêu tả bài tập có sự thống nhất
-
