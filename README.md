@@ -12,6 +12,12 @@ This project helps me follow exercise sequences and track timing without relying
 - No dependencies or installation required
 - Custom exercise structure based on personal kettlebell workouts
 
+## Things to Improve
+- Create customizable personal workouts
+- Improve mobile accessibility and responsiveness
+- Store exercise data (number of reps, workout date and time)
+- Create consistent and unified exercise illustrations
+
 ## Usage
 1. Download or clone the repository
 2. Open `kettlebell-timer.html` in your browser
