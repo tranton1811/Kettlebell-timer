@@ -19,7 +19,7 @@ This project helps me follow exercise sequences and track timing without relying
 - Create consistent and unified exercise illustrations
 
 ## Usage
-1. Download or clone the repository
+1. Download or clone the repository. Keep the HTML and images in the same folder structure.
 2. Open `kettlebell-timer.html` in your browser
 3. Start the timer and train
 
